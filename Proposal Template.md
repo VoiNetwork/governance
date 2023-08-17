@@ -1,5 +1,7 @@
 # **Proposal Template**
-**Standardized template for all Voi proposal submissions. This template must be completed in its entirety to be eligible for token funding.**
+**Standardized template for all Voi proposal submissions. The following information must be provided in its entirety to be eligible for token funding. Please use the below format when submitting proposals. Proposals can be submitted to the Proposal Folder in Voi's GitHub (coming soon)**
+
+
 
 1. **Abstract** (summary of project, problem you are trying to solve, and solution)
 
