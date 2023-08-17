@@ -1,5 +1,5 @@
 # **Introduction to Voi’s governance program**
-## **Preliminary information on Voi’s governance program, its purpose, and what to expect.**
+## **Preliminary information on Voi’s governance program, its purpose, and what to expect**
 
 ### **Welcome to Voi’s governance program!**
 
@@ -22,8 +22,8 @@ Voi’s testnet will have 3 consecutive stages each spanning a couple of months 
 
 We aim to achieve a substantial user base in order to have a vibrant and active testnet environment. This is crucial for testing the network's capabilities and gathering valuable feedback. To facilitate this, we will be running a Testnet Incentive Bounty Board that will follow the same Voi’s general governance structure as outlined in this main repository and all the files and documents found within. 
 
-## **How it Works**
-### **Describes the grant issuance process, timelines and calendar, and expectations around submission.** 
+## **How it works**
+### **Describes the grant issuance process, review cycle, and expectations around submission.** 
 
 To start, during Voi’s testnet phase and perhaps thereafter, governance will function on a monthly cycle. Proposals to receive testnet token grants can be submitted on a rolling basis and will be reviewed by the testnet committee on a rolling basis. More information on Voi’s testnet and the underworkings of this testnet committee can be found in this living document. 
 
