@@ -1,5 +1,5 @@
 # **Proposal Evaluation Form**
-**Describes how grants are reviewed and evaluated by Voi's governance committee.**
+** Outlines how grants will be reviewed and evaluated by Voi's governance committee.**
 
 A copy of the committee evaluation template can be found below for reference. 
 
@@ -11,3 +11,4 @@ The following process will be followed by the proposal committee when evaluating
 4. A total score is determined by tallying up the final criteria scores and by applying a weight to each criteria.
 5. If the ultimate score of the application is above the necessary threshold to be determined by the committee then the application proceeds.
 
+<<Insert evaluation table here>>
