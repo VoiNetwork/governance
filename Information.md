@@ -16,13 +16,13 @@ Voi’s testnet is anticipated to launch October 2nd. Our major goal for Testnet
 Voi’s testnet will have 3 consecutive stages each spanning a couple of months to get different aspects of Voi’s infrastructure up and running: 
 
 1.Node network development
-2.NFT infrastructure*
-3.DeFi infrastructure*
-*NFT and DeFI stages may be swapped. 
+2.NFT infrastructure
+3.DeFi infrastructure
+(NFT and DeFI stages may be swapped) 
 
 We aim to achieve a substantial user base in order to have a vibrant and active testnet environment. This is crucial for testing the network's capabilities and gathering valuable feedback. To facilitate this, we will be running a Testnet Incentive Bounty Board that will follow the same Voi’s general governance structure as outlined in this main repository and all the files and documents found within. 
 
-## **How it Works **
+## **How it Works**
 ### **Describes the grant issuance process, timelines and calendar, and expectations around submission.** 
 
 To start, during Voi’s testnet phase and perhaps thereafter, governance will function on a monthly cycle. Proposals to receive testnet token grants can be submitted on a rolling basis and will be reviewed by the testnet committee on a rolling basis. More information on Voi’s testnet and the underworkings of this testnet committee can be found in this living document. 
@@ -31,7 +31,7 @@ The general submission and review process is as follows:
 
 **1. Bounty Board:** _On a monthly basis the committee will update the Bounty Board, which will act as a call for proposals that are available for testnet grants. The post for proposals will highlight Voi’s main priorities for the upcoming quarter and will be updated monthly if not sooner on the Bounty Board._
 
-**2. Proposal Submission:** _Proposals can be submitted on a rolling basis. All proposals must be submitted using the Proposal Submission Template on Github and be submitted with all sections completed. _
+**2. Proposal Submission:** _Proposals can be submitted on a rolling basis. All proposals must be submitted using the Proposal Submission Template on Github and be submitted with all sections completed._
 
 **3. Review of Applications:** _Proposals will be viewable and commentable by the greater Voi community for 7-days post submission. Each member of the Testnet Committee will then review and evaluate each grant application in accordance with the Proposal Evaluation Form. Committee members will convene to discuss the reasons for their scores in each criteria. Committee members assigned scores for each criteria will be averaged to get a final score on each criteria. A total score is determined by tallying up the final criteria scores and by applying a weight to each criteria based on the vertical that the project falls in. If the ultimate score of the application is above the necessary threshold then the application proceeds._
 
