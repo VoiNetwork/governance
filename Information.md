@@ -1,7 +1,7 @@
 # **Introduction to Voi’s governance program**
 ## **Preliminary information on Voi’s governance program, its purpose, and what to expect.**
 
-**Welcome to Voi’s governance program!**
+### **Welcome to Voi’s governance program!**
 
 Voi’s governance program puts you as a member of our community in charge of the future of Voi. Whether you are a developer, node-runner, application owner, or entrepreneur, your contributions to our network are what will allow Voi to bring blockchain to communities around the world and actualize our mission of building a blockchain for mainstream users.
 
