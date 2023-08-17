@@ -3,4 +3,4 @@
 
 It is expected that all proposals selected for funding maintain open-source code on Github for all milestones for the duration of the project. 
 
-**List of bounties and their requirements is coming soon!**
+**(List of bounties and their requirements is currently being compiled. Stay tuned!)**
