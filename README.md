@@ -15,9 +15,9 @@ Voi’s testnet is anticipated to launch October 2nd. Our major goal for Testnet
 
 Voi’s testnet will have 3 consecutive stages each spanning a couple of months to get different aspects of Voi’s infrastructure up and running: 
 
-1.Node network development
-2.NFT infrastructure
-3.DeFi infrastructure
+1. Node network development
+2. NFT infrastructure
+3. DeFi infrastructure
 (NFT and DeFI stages may be swapped) 
 
 We aim to achieve a substantial user base in order to have a vibrant and active testnet environment. This is crucial for testing the network's capabilities and gathering valuable feedback. To facilitate this, we will be running a Testnet Incentive Bounty Board that will follow the same Voi’s general governance structure as outlined in this main repository and all the files and documents found within. 
