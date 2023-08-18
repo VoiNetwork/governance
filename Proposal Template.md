@@ -14,13 +14,17 @@
 5. **Expected Impact & Outcomes for the Voi Community** (how do you see this project benefiting the community)
 
 6. **Milestones** (provide a table with a list of major milestones, descriptions of each milestone, anticipated completion date for each milestone, and proposed payout for each milestone).
-   
-7. **Technical Approach** (If the bounty you are completing is technical in nature, please describe your approach to solving the problem in greater detail, using a step-by-step approach if possible. This will help our team guide you and provide alternative suggestions, if necessary). 
 
-8. **Define Success** (how will you assess success of the project and evaluate impact?)
+| **Milestone** | **Description** | **Completion Date** | **Proposed Payout** |
+| --------- | ----------- | --------------- | --------------- | 
+|           |             |                 |                 | 
 
-9. **Concerns** (transparently list any concerns you may have or barriers you expect to come up to getting this project done at a high-quality level and on-time and how you plan to overcome these).
+8. **Technical Approach** (If the bounty you are completing is technical in nature, please describe your approach to solving the problem in greater detail, using a step-by-step approach if possible. This will help our team guide you and provide alternative suggestions, if necessary). 
 
-10. **Project Longevity** (describe how you plan to support your project going forward; what plan do you have in place to ensure long-term success and sustainability). 
+9. **Define Success** (how will you assess success of the project and evaluate impact?)
 
-11. **Additional Information** (feel free to add any additional information here in support of your proposal including Twitter accounts, Discord handles, website(s), Medium articles etc. 
+10. **Concerns** (transparently list any concerns you may have or barriers you expect to come up to getting this project done at a high-quality level and on-time and how you plan to overcome these).
+
+11. **Project Longevity** (describe how you plan to support your project going forward; what plan do you have in place to ensure long-term success and sustainability). 
+
+12. **Additional Information** (feel free to add any additional information here in support of your proposal including Twitter accounts, Discord handles, website(s), Medium articles etc. 
