@@ -13,7 +13,7 @@
 
 5. **Expected Impact & Outcomes for the Voi Community** (how do you see this project benefiting the community)
 
-6. **Milestones** (provide a table with a list of major milestones, descriptions of each milestone, anticipated completion date for each milestone, and proposed payout for each milestone). **You must have at least 1 outcome based milestone.**__ 
+6. **Milestones** (provide a table with a list of major milestones, descriptions of each milestone, anticipated completion date for each milestone, and proposed payout for each milestone). __**You must have at least 1 outcome based milestone.**__ 
 
 | **Milestone** | **Description** | **Completion Date** | **Proposed Payout** |
 | --------- | ----------- | --------------- | --------------- | 
