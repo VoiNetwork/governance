@@ -18,6 +18,7 @@
 | **Milestone** | **Description** | **Completion Date** | **Proposed Payout** |
 | --------- | ----------- | --------------- | --------------- | 
 |           |             |                 |                 | 
+|           |             |                 |                 | 
 
 8. **Technical Approach** (If the bounty you are completing is technical in nature, please describe your approach to solving the problem in greater detail, using a step-by-step approach if possible. This will help our team guide you and provide alternative suggestions, if necessary). 
 
