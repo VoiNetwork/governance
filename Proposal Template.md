@@ -5,7 +5,7 @@
 
 1. **Abstract** (summary of project, problem you are trying to solve, and solution)
 
-2. **Team** (description of your team, expertise, and why you are best suited for tackling this bounty)
+2. **Team** (description of your team, past experience, expertise, and why you are best suited for tackling this bounty)
 
 3. **Problem Description** (provide further elaboration on the details and nature of the problem you are trying to solve)
 
@@ -15,10 +15,10 @@
 
 6. **Milestones** (provide a table with a list of major milestones, descriptions of each milestone, anticipated completion date for each milestone, and proposed payout for each milestone). **_You must have at least 1 outcome based milestone_**. 
 
-| **Milestone** | **Description** | **Completion Date** | **Proposed Payout** |
-| --------- | ----------- | --------------- | --------------- | 
-|           |             |                 |                 | 
-|           |             |                 |                 | 
+| **Milestone** | **Description** | **Completion Date** | 
+| --------- | ----------- | --------------- | 
+|           |             |                 |                  
+|           |             |                 |             
 
 8. **Technical Approach** (If the bounty you are completing is technical in nature, please describe your approach to solving the problem in greater detail, using a step-by-step approach if possible. This will help our team guide you and provide alternative suggestions, if necessary). 
 
