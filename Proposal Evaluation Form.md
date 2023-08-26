@@ -16,7 +16,7 @@ The following process will be followed by the proposal committee when evaluating
 | The Team   | How well is this team suited to solve this bounty based on experience and past projects |
 | Problem Description | How well were they able to define and describe the true nature of the problem they are solving |
 | Solution | Does the overall solution make sense, is it convincing, and is it the ideal way to solve the problem? |
-| Expected Impact | Is the team aware of the impact they are trying to have and does the solution cater to it |
+| Expected Impact | Is the team aware of their mission and the impact they are trying to have and does the solution cater to it |
 | Technical Approach (for technical bounties) | Do the details of the technical approach to developing the final solution make sense and convincing? Is it elegant, thoughtf and thoroughly presented? Is it unique and innovative in any way? |
 | Definition of Success & Project Longevity | Does the team have a clear and detailed vision for what success looks like and a plan for ensuring long-term success? |
 | Concerns | Is it clear the team has thought about potential roadblocks or impediments to their success and have good ideas on how to overcome them? 
