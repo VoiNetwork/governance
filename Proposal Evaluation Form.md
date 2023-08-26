@@ -11,8 +11,8 @@ The following process will be followed by the proposal committee when evaluating
 4. A total score is determined by tallying up the final criteria scores and by applying a weight to each criteria.
 5. If the ultimate score of the application is above the necessary threshold to be determined by the committee then the application proceeds.
 
-| Categories | Description | Score out of 10 (0- non-existent; 5-average; 10-exceptional) | Category Weight | Evaluator’s  Comments |
-| ---------- | ----------- | ------------------------------------------------------------ | --------------- | --------------------- |
+| Categories | Description | Score out of 10 (0- non-existent; 5-average; 10-exceptional) | Evaluator’s  Comments |
+| ---------- | ----------- | ------------------------------------------------------------ | --------------------- |
 | The Team   | How well is this team suited to solve this bounty based on experience and past projects |
 | Problem Description | How well were they able to define and describe the true nature of the problem they are solving |
 | Solution | Does the overall solution make sense, is it convincing, and is it the ideal way to solve the problem? |
