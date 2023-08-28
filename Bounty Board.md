@@ -6,3 +6,9 @@ It is expected that all proposals selected for funding maintain open-source code
 **Bounties**
 
 - [Browser Wallet Extension](https://github.com/VoiNetwork/governance/blob/main/Bounties/Browser%20Extension%20Wallet.md)
+- [Explorer](https://github.com/VoiNetwork/governance/blob/main/Bounties/Block%20Explorer.md)
+- [Public API](https://github.com/VoiNetwork/governance/blob/main/Bounties/Public%20API.md)
+- [NFT Bridge]()
+- [Token Leverage Platform]()
+- [Stateproof ASA Bridge]()
+- [Decentralized Oracle]()
