@@ -50,7 +50,7 @@ For use on both testnet & mainnet.
     3. Warnings
     4. Password to confirm transaction
 6. Secure
-        1. Password login
+    1. Password login
 8. Network Switch
     1. Voi
        1. Testnet
