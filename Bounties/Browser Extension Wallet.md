@@ -50,15 +50,15 @@ For use on both testnet & mainnet.
     3. Warnings
     4. Password to confirm transaction
 6. Secure
-    1.Password login
-7. Network Switch
+        1. Password login
+8. Network Switch
     1. Voi
        1. Testnet
        2. Mainnet
     3. Algorand
        1. Testnet
        2. Mainnet
-8. UI
+9. UI
     1. Good UX and intuitive interactivity
 
 ## Definition of Done
