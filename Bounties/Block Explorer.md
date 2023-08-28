@@ -27,32 +27,32 @@ For use on both testnet & mainnet.
 1. Overview Dashboard
 2. Address View
 3. Blocks View
-  1. Block View
+    1. Block View
 4. Transactions View
-  1. Transaction View
+    1. Transaction View
 5. Assets View
-  1. Asset View
+    1. Asset View
 6. Apps View
-  1. App View
+    1. App View
 7. Statistics
-  1. Top Accounts
-  2. Top Statistics
-    1. All
-    2. Economics
-    3. Accounts
-    4. Transactions
-    5. Assets
+    1. Top Accounts
+    2. Top Statistics
+        1. All
+        2. Economics
+        3. Accounts
+        4. Transactions
+        5. Assets
 8. Testnet Dispenser
 9. Network Switch
-  1. Voi
-    1. Testnet
-    2. Mainnet
-  2. Algorand
-    1. Testnet
-    2. Mainnet
+    1. Voi
+        1. Testnet
+        2. Mainnet
+    2. Algorand
+        1. Testnet
+        2. Mainnet
 10. UI
-  1. Reactive design that works on devices of different dimensions
-  2. Good UX with intuitive interactivity
+    1. Reactive design that works on devices of different dimensions
+    2. Good UX with intuitive interactivity
 
 ## Definition of Done
 
