@@ -23,7 +23,11 @@ There are currently not enough NFT Marketplaces on Voi that enable users to be a
 A web app for use on both testnet & mainnet of Voi.
 
 1. Supports appropriate assets
-    1. [ARC-72](https://arc.algorand.foundation/ARCs/arc-0072)
+    1. NFTs 
+        1. [ARC-72](https://arc.algorand.foundation/ARCs/arc-0072)
+    2. FTs 
+        1. [ARC-200](https://github.com/algorandfoundation/ARCs/blob/8fecd9127cfa70b49179a3e4b74212a0186b344b/ARCs/arc-0200.md)
+        2. ASAs
 2. Ability for user to connect their wallet via [Browser Extension Wallet](https://github.com/VoiNetwork/governance/blob/main/Bounties/Browser%20Extension%20Wallet.md)
 3. Views
     1. Home
