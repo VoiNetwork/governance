@@ -46,7 +46,7 @@ For use on both testnet & mainnet.
     2. Indexer
         1. https://developer.algorand.org/docs/rest-apis/indexer/ 
     3. NFT Index
-        1. Support for on-chain [NFT Indexer]()
+        1. Support for on-chain [NFT Indexer](https://github.com/VoiNetwork/governance/blob/main/Bounties/NFT%20Indexer.md)
 
 
 ## Definition of Done
