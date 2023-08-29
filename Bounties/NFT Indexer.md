@@ -29,7 +29,11 @@ For use on both testnet & mainnet.
 3. Public method where input is a wallet address and output is the appIds of the ARC-72 assets owned by this address.
 4. Deployed and working on:
     1. Voi
-    2. Algorand 
+        1. Testnet
+        2. Mainnet 
+    3. Algorand
+        1. Testnet
+        2. Mainnet 
 5. Ensures that the [Public API](https://github.com/VoiNetwork/governance/blob/main/Bounties/Public%20API.md) can implement [ARC-74](https://arc.algorand.foundation/ARCs/arc-0074) ontop of the NFT Indexer.
 
 ## Definition of Done
