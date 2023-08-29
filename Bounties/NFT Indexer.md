@@ -27,6 +27,9 @@ For use on both testnet & mainnet.
     1. Parse blocks or events in real time as they are created and detect ARC-72 asset transactions that would cause the indexer to need to be updated.
     2. Use [ARC-73](https://arc.algorand.foundation/ARCs/arc-0073) to detect newly created ARC-72 assets that correctly implement the defined interface.
 3. Public method where input is a wallet address and output is the appIds of the ARC-72 assets owned by this address.
+4. Deployed and working on:
+    1. Voi
+    2. Algorand 
 
 ## Definition of Done
 
