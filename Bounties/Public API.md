@@ -45,6 +45,8 @@ For use on both testnet & mainnet.
         1. https://developer.algorand.org/docs/rest-apis/algod/ 
     2. Indexer
         1. https://developer.algorand.org/docs/rest-apis/indexer/ 
+    3. NFT Index
+        1. Support for on-chain [NFT Indexer]()
 
 
 ## Definition of Done
@@ -53,5 +55,6 @@ For use on both testnet & mainnet.
 - 99.99% uptime for the duration of testnet
 - Integrated into the Extension Wallet if applicable
 - Integrated into the Block Explorer if applicable
+- Integrate the NFT Index
 - All code open sourced
 
