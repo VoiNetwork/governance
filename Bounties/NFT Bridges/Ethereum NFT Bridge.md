@@ -41,6 +41,5 @@ However it should be designed and architected so it can be expanded upon to esta
 
 - Successfully implemented the minimum features as per the minimum requirements
 - 99.99% uptime for the duration of testnet
-- Integrated into the Public API
 - All code open sourced
 
