@@ -1,6 +1,6 @@
 # Stateproof ASA Bridge
 
-Testnet Token Bounty Size: **75MM to 125MM**
+Testnet Token Bounty Size: **150MM to 250MM**
 
 ## Description
 
