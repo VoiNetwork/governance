@@ -30,6 +30,7 @@ For use on both testnet & mainnet.
 4. Deployed and working on:
     1. Voi
     2. Algorand 
+5. Ensures that the [Public API](https://github.com/VoiNetwork/governance/blob/main/Bounties/Public%20API.md) can implement [ARC-74](https://arc.algorand.foundation/ARCs/arc-0074) ontop of the NFT Indexer.
 
 ## Definition of Done
 
