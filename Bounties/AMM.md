@@ -16,7 +16,7 @@ This is crucial to enable DeFi. Users must be able to swap different fungible as
 
 ## Problem Statement
 
-There is currently not enough AMM Dexs on Voi to support our DeFi scene.
+There is currently not enough AMM Dexs on Voi to support our DeFi scene. This should not use the same technology that Humble has open-sourced so we ensure we have different technologies.
 
 ## Minimum Requirements
 
