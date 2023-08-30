@@ -37,5 +37,8 @@ Proposals can be submitted to the [Proposal Folder](https://github.com/VoiNetwor
 # Project Longevity 
 (Describe how you plan to support your project going forward; what plan do you have in place to ensure long-term success and sustainability). 
 
+# Project Length
+(Estimate how long it will take you to complete the project given your potential time commitments external to this project)
+
 # Additional Information
 (Feel free to add any additional information here in support of your proposal including Twitter accounts, Discord handles, website(s), Medium articles etc.)
