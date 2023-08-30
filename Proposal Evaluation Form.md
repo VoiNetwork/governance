@@ -5,13 +5,13 @@ A copy of the committee evaluation template can be found in the table below for 
 
 The following process will be followed by the proposal committee when evaluating and scoring proposals: 
 
-1. Each committee assigns scores out of 10 in each of the categories.
+1. Each committee assigns scores out of 5 in each of the categories.
 2. Committee members will convene to discuss the reasons for their scores in each criteria.
 3. Committee members assigned scores for each criteria will be averaged to get a final score on each criteria.
 4. A total score is determined by tallying up the final criteria scores and by converting it to a percentage.
 5. If the ultimate score of the application is above the necessary threshold of 70% to be determined by the committee then the application proceeds.
 
-| Categories | Description | Score out of 10 (0- non-existent; 5-average; 10-exceptional) | Evaluator’s  Comments |
+| Categories | Description | Score out of 5 (0- non-existent; 5-exceptional) | Evaluator’s  Comments |
 | ---------- | ----------- | ------------------------------------------------------------ | --------------------- |
 | The Team   | How well is this team suited to solve this bounty based on experience and past projects |
 | Problem Description | How well were they able to define and describe the true nature of the problem they are solving |
