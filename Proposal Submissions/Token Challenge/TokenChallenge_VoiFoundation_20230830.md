@@ -1,4 +1,8 @@
-# **Abstract**
+# Token Quantity
+
+300MM (300,000,000) Testnet Tokens
+
+# Abstract
 As part of the incentivized testnet the Voi Foundation is going to be running a "Token Challenge" in the DeFi phase. 
 
 This would entail incentivising users to create their own tokens on the testnet and have them try to achieved certain milestones and key metrics which would rank them against each other. 
@@ -7,33 +11,33 @@ Both the creator and the hodlers would be eligible to receive testnet rewards in
 
 The Voi Foundation would like to request the deployment of **300M** testnet tokens for us to then subsequently airdrop as rewards to the participants of the Token Challenge.
 
-# **Team**
+# Team
 
 Having worked on and founded Voi network The Voi Foundation has the perfect experience and expertise necessary to utilize the tokens granted to us via this proposal to execute on the Token Challenge.
 
-# **Problem Description**
+# Problem Description
 
 The problem we are looking to solve is to increase engagement and participation from not only our existing community of Voiagers, but other networks such as Ethereum and Solana. 
 
 We are looking to attract new users to our own community via their participation in the testnet.
 
-# **Solution Approach**
+# Solution Approach
 
 The Token Challenge we feel will be a fun, engaging and rewarding way for new users to enter the ecosystem and to join our community. 
 
-# **Expected Impact & Outcomes for the Voi Community** 
+# Expected Impact & Outcomes for the Voi Community 
 
 We envision this project to greatly benefit the community by creating more cohesion between existing members as well as by increasing the number of new members.
 
 We also believe that this will increase the amount of engagement on social media as people start discussion their tokens and try to increase their own following of said tokens.
 
-# **Technical Approach**
+# Technical Approach
 
 User created application tokens on the network will be eligible and we will use a number of off-chain scripts to perform chain analysis so that we can rank each token against different metrics and milestones.
 
 Eligible users would then be airdropped their share of the testnet tokens granted by the committee for this proposal via another script.
 
-# **Define Success**
+# Define Success
 
 Success will be ultimately determined by:
 
