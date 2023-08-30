@@ -1,7 +1,7 @@
 # **Proposal Evaluation Form**
 **Outlines how grants will be reviewed and evaluated by Voi's governance committee.**
 
-A copy of the committee evaluation template can be found in the table below for reference. This has been provided for the sake of transparency and to support those seeking funding with the development of a successful proposal. 
+A copy of the committee evaluation template can be found in the table below for reference. P**lease only submit the Google Form version of this evaluation that has been provided by the core team.** This has been provided for the sake of transparency and to support those seeking funding with the development of a successful proposal. 
 
 The following process will be followed by the proposal committee when evaluating and scoring proposals: 
 
