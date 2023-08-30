@@ -9,7 +9,7 @@ This would entail incentivising users to create their own tokens on the testnet 
 
 Both the creator and the hodlers would be eligible to receive testnet rewards in conjunction with this challenge.
 
-The Voi Foundation would like to request the deployment of **300M** testnet tokens for us to then subsequently airdrop as rewards to the participants of the Token Challenge.
+The Voi Foundation would like to request the deployment of **300MM** testnet tokens for us to then subsequently airdrop as rewards to the participants of the Token Challenge.
 
 # Team
 
