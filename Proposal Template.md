@@ -21,4 +21,4 @@
 
 9. **Project Longevity** (describe how you plan to support your project going forward; what plan do you have in place to ensure long-term success and sustainability). 
 
-10. **Additional Information** (feel free to add any additional information here in support of your proposal including Twitter accounts, Discord handles, website(s), Medium articles etc. 
+10. **Additional Information** (feel free to add any additional information here in support of your proposal including Twitter accounts, Discord handles, website(s), Medium articles etc.)
