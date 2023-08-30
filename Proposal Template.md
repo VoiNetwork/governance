@@ -1,9 +1,9 @@
 # **Proposal Template**
 **Standardized template for all Voi proposal submissions. The following information must be provided in its entirety to be eligible for token funding. Please use the below format when submitting proposals. Proposals can be submitted to the Proposal Folder in Voi's GitHub (coming soon)**
 
+0. **Proposal Status:** (Draft/Final)
 
-
-1.**Tokens Requested** (how many testnet tokens are you requesting? please refer to approximate testnet tokens allocated to this bounty. projects will be evaluated against each other on cost-effectiveness) 
+1. **Tokens Requested** (how many testnet tokens are you requesting? please refer to approximate testnet tokens allocated to this bounty. projects will be evaluated against each other on cost-effectiveness) 
 
 2. **Abstract** (summary of project, problem you are trying to solve, and solution)
 
