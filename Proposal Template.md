@@ -7,6 +7,9 @@ Proposals can be submitted to the [Proposal Folder](https://github.com/VoiNetwor
 
 ---
 
+# Proposal Status
+(Draft/Final)
+
 # Token Quantity
 (How many tokens are you requesting to complete your proposal)
 
