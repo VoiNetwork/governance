@@ -5,6 +5,8 @@ Please use the below format when submitting proposals.
 
 Proposals can be submitted to the [Proposal Folder](https://github.com/VoiNetwork/governance/tree/main/Proposal%20Submissions) in Voi's GitHub
 
+---
+
 # Proposal Status
 (Draft/Final)
 
