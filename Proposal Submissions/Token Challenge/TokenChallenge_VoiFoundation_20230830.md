@@ -1,3 +1,7 @@
+# Proposal Status
+
+Draft
+
 # Token Quantity
 
 300MM (300,000,000) Testnet Tokens
