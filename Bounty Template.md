@@ -8,8 +8,10 @@ Testnet Token Bounty Size:
 
 ### Why
 
-## Problem Statement
+## Problem Statement - what problem does this bounty solve?
 
-## Minimum Requirements
+## Expected Impact - what is the expected impact for Voi if this bounty is successfully completed? 
 
-## Definition of Done
+## Minimum Requirements - what are the minimum requirements for this bounty? 
+
+## Definition of Done - what does sucess look like when completed? 
