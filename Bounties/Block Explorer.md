@@ -61,5 +61,5 @@ For use on both testnet & mainnet.
 
 - Successfully implemented the minimum features as per the minimum requirements
 - Web application accessible via browser
-- Application working for the duration of the testnet
+- 99.99% uptime for the duration of testnet
 - All code open sourced.
