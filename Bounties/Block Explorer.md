@@ -34,7 +34,21 @@ For use on both testnet & mainnet.
     1. Asset View
 6. Apps View
     1. App View
-7. Statistics
+7. Testnet Dispenser
+8. Network Switch
+    1. Voi
+        1. Testnet
+        2. Mainnet
+    2. Algorand
+        1. Testnet
+        2. Mainnet
+9. UI
+    1. Reactive design that works on devices of different dimensions
+    2. Good UX with intuitive interactivity
+
+## Stretch Goals
+
+1. Statistics
     1. Top Accounts
     2. Top Statistics
         1. All
@@ -42,17 +56,6 @@ For use on both testnet & mainnet.
         3. Accounts
         4. Transactions
         5. Assets
-8. Testnet Dispenser
-9. Network Switch
-    1. Voi
-        1. Testnet
-        2. Mainnet
-    2. Algorand
-        1. Testnet
-        2. Mainnet
-10. UI
-    1. Reactive design that works on devices of different dimensions
-    2. Good UX with intuitive interactivity
 
 ## Definition of Done
 
