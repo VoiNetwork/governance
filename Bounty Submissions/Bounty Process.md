@@ -6,8 +6,9 @@
 6. Copy [Bounty Template](https://github.com/VoiNetwork/governance/blob/main/Bounty%20Submissions/Bounty%20Template.md) into your newly created bounty file
 7. Fill out the template with the details of your bounty idea
 8. Create [pull request](https://github.com/VoiNetwork/governance/pulls) and select your branch `bounty/BountyName`
-9. Collect the readable file (`BountyName.md`) and the newly created pull request URLs
-10. Create new post in `testnet-bounties` forum under `governance` in the Voi discord
-11. Title in format `Bounty Name` the body as the URLs collected in step 9
-12. Post your submission
-13. Await community request for comment
+9. Label the pull request as `bounty`
+10. Collect the readable file (`BountyName.md`) and the newly created pull request URLs
+11. Create new post in `testnet-bounties` forum under `governance` in the Voi discord
+12. Title in format `Bounty Name` the body as the URLs collected in step 9
+13. Post your submission
+14. Await community request for comment
