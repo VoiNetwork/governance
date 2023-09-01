@@ -9,6 +9,6 @@
 9. Create [pull request](https://github.com/VoiNetwork/governance/pulls) and select your branch `proposal/BountyName_Submitter_YYYYMMDD`
 10. Collect the readable file (`BountyName_Submitter_YYYYMMDD.md`) and the newly created pull request URLs
 11. Create new post in `testnet-proposals` forum under `governance` in the Voi discord
-12. Title in format "Bounty Name - Submitter - YYYYMMDD" the body as the URLs collected in step 9
+12. Title in format `Bounty Name - Submitter - YYYYMMDD` the body as the URLs collected in step 9
 13. Post your submission
 14. Await community request for comment
