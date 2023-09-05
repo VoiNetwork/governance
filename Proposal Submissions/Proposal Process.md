@@ -1,5 +1,5 @@
 1. Review outstanding bounties - [bounty board](https://github.com/VoiNetwork/governance/blob/main/Bounty%20Board.md)
-2. Select a bounty - review specific bounty document
+2. Select a bounty - review specific bounty document OR submit an off-piste proposal for something that does not exist on the bounty board
 3. Create a new branch from `main` in the format of `proposal/BountyName_Submitter_YYYYMMDD`
 4. Ensure you have selected your branch
 5. Navigate to `Proposal Sumissions`, create a new folder as `BountyName` if it does not yet exist.
