@@ -15,16 +15,20 @@ The voice of the community is rarely heard because there fails to exist a commit
 Our solution is to incentivize members on a per meeting basis in addition to incentivizing the  taking on of additional responsibilities within the committee (ex. Champion role or Reviewer role or development of committee related supporting materials and processes). We propose the following breakdown for rewarding council members: 
 - 1 million Voi testnet tokens to be granted to individuals that attend each bi-monthly Voi committee meeting in its entirety AND participate at least once during the meeting. 
 - Additional 1 million for individuals that serve as a “Champion” (or similar role…Reviewer, Endorser etc.). 
-- An additional 10 million tokens will be allocated for additional supportive tasks completed by members of the council that contribute to the general operations of the committee and support the council in improving the proposal process and due diligence of projects. This pool of testnet tokens will be distributed commensurate with the time and effort of the task. Such tasks should be agreed upon as being needed by the Foundation and Council prior to development (example of such a task could be the creation of due diligence guidelines to support the review of projects requesting funding). 
+- An additional 10 million tokens will be allocated for additional supportive tasks completed by members of the council that contribute to the general operations of the committee and support the council in improving the proposal process and due diligence of projects. This pool of testnet tokens will be distributed commensurate with the time and effort of the task. Such tasks should be agreed upon as being needed by the Foundation and Council prior to development (example of such a task could be the creation of due diligence guidelines to support the review of projects requesting funding).
+
+The rewards would all be earned pro-rata.
 
 # Expected Impact & Outcomes for the Voi Community 
-The expected impact of an incentivized testnet committe or council is that major decisions when it comes to how 
+The expected impact is to ensure we have an active, engaged and passionate council by rewardeding them for their time and value. 
+
+This results in a net positive outcome for the community at large given that the council members will be incentivized to act on the best interests of the community.
 
 # Technical Approach
 N/A - Non technical proposal
 
 # Define Success
-Identifying Voi TestNet sales activity of NFTs, social media engagement with the artists/projects (i.e. Twitter/X, Discord) regarding Voi TestNet NFTs and additional artists/projects joining Voi Incentivized TestNet for the benefit of their communities and supporters. 
+Success would be determined by the successful, timly and effective operation of the council. This could include measuring engagement levels of the council members within meetings and on discord as well as tracking how timely responses are to pending actions required by members of the council. 
 
 # Concerns
 It is feasible that individuals will only partake in Voi’s testnet committee with the motivation of securing Voi’s testnet tokens instead of a deeper investedness in the future of the network. We aim to solve this by allowing the committee to vote out any member that fails to attend meetings and/or  truly participate, add value, or serve as a positive contribution to the council at any point in time. 
