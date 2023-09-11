@@ -19,6 +19,14 @@ The Voi Foundation would like to request the deployment of **300MM** testnet tok
 
 Having worked on and founded Voi network The Voi Foundation has the perfect experience and expertise necessary to utilize the tokens granted to us via this proposal to execute on the Token Challenge.
 
+Here are the teams twitter accounts for reference:
+- https://twitter.com/bwhdx
+- https://twitter.com/GovVoi
+- https://twitter.com/ShanPurushotham
+- https://twitter.com/chrisswenor
+- https://twitter.com/algoJPEG
+- https://twitter.com/JZYeyo
+
 # Problem Description
 
 The problem we are looking to solve is to increase engagement and participation from not only our existing community of Voiagers, but other networks such as Ethereum and Solana. 
@@ -68,13 +76,44 @@ This project is a one shot that would not require long term support beyond the c
 
 # **Additional Information** 
 
-If the TestNet Committee has any feedback or questions then please do not hesitate to comment on the proposal or reach out to the team for further clarification. 
+For a token to be eligible it must have fulfilled the following criteria:
+- Not be the Voi testnet native token
+- Not be a Voi testnet token equivalent
+  - For example a VSA distributed by the foundation that is otherwise equivalent in everyway to the native testnet token
 
-Here are the teams twitter accounts for reference:
-- https://twitter.com/bwhdx
-- https://twitter.com/GovVoi
-- https://twitter.com/ShanPurushotham
-- https://twitter.com/chrisswenor
-- https://twitter.com/algoJPEG
-- https://twitter.com/JZYeyo
+Each eligible token will receieve a certain amount of points for the following:
+- Activity
+- Engagement
+- Market Value
 
+Each holder of an eligible token then recieves a share of those points assigned to the eligible token dependent on how many of those tokens they hold.
+
+## Maths
+
+### Variables
+- $T$ = Number of unique tokens in the game
+- $t_i$ = A specific token, where $i$ ranges from $1$ to $T$
+- $P(t_i)$ = Points that token $t_i$ can potentially earn
+- $P_{activity}(t_i)$ = Points token $t_i$ gets based on specific activities involving the token
+- $P_{engagement}(t_i)$ = Points token $t_i$ gets based on user engagement
+- $P_{market}(t_i)$ = Points token $t_i$ gets based on its market value or demand
+- $O_{u,t_i}$ = Ownership fraction of user $u$ for token $t_i$
+- $R$ = Total rewards available
+- $P_u$ = Total points earned by user $u$
+- $P_T$ = Total points available in the game
+
+### Formulas
+Total points for a specific token:
+- $P(t_i) = P_{activity}(t_i) + P_{engagement}(t_i) + P_{market}(t_i)$
+
+User's points from a specific token:
+- $p_{u,t_i}$ = $O_{u,t_i}$ $\times$ $P(t_i)$
+
+Total points user earn from all tokens:
+- $P_u = \displaystyle\sum_{i=1}^{T} p_{u,t_i}$
+
+Total points available in the game:
+- $P_T = \displaystyle\sum_{i=1}^{T} P(t_i)$
+
+User's share of the total rewards:
+- $R_u = \left(\frac{P_u}{P_T}\right) \times R$
