@@ -88,6 +88,8 @@ Each eligible token will receieve a certain amount of points for the following:
 
 Each holder of an eligible token then recieves a share of those points assigned to the eligible token dependent on how many of those tokens they hold.
 
+A holder then earns a share of the total testnet rewards available based on the points they have relative to the total amount of points.
+
 ## Maths
 
 ### Variables
