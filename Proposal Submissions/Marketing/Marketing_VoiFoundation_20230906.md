@@ -1,35 +1,35 @@
 # Token Quantity
-(How many tokens are you requesting to complete your proposal)
+100 Million Voi Testnet Tokens
 
 # Abstract
-(Summary of project, problem you are trying to solve, and solution)
+We propose a strategic marketing and education initiative for Voi aimed at enhancing community engagement and understanding of our blockchain project. This initiative includes educational material creation, building a strong social media presence, and incentivizing Ambassadors.
 
 # Team 
-(Description of your team, past experience, expertise, and why you are best suited for tackling this bounty)
+The Voi Foundation overseen by Cody Montalvo
 
 # Problem Description 
-(Provide further elaboration on the details and nature of the problem you are trying to solve)
+Voi, as a new blockchain project, faces the challenge of low community engagement and awareness. Many potential users lack knowledge about Voi's technology and its benefits.
 
 # Solution Approach 
-(How will you go about solving this problem at a high-level and why have you chosen to solve the problem this way)
+We will allocate tokens to create a variety of educational materials, including YouTube videos, Medium articles, Twitter threads, and Reddit posts. Simultaneously, we'll invest in non-technical bounties for social media engagement. Ambassadors will be incentivized to promote Voi and engage with the community.
 
 # Expected Impact & Outcomes for the Voi Community 
-(How do you see this project benefiting the community)
+This initiative will empower the Voi community with knowledge and resources, attracting new users and strengthening Voi's position in the blockchain ecosystem.
 
 # Technical Approach
-(If the bounty you are completing is technical in nature, please describe your approach to solving the problem in greater detail, using a step-by-step approach if possible. This will help our team guide you and provide alternative suggestions, if necessary). 
+The technical aspect involves creating and sharing educational content and marketing materials. Detailed steps will be outlined in project planning.
 
 # Define Success
-(How will you assess success of the project and evaluate impact based on the definition of done in the bounty guidelines document?)
+Success will be measured by increased community engagement, growth in social media presence, and the number of new users onboarded.
 
 # Concerns
-(Transparently list any concerns you may have or barriers you expect to come up to getting this project done at a high-quality level and on-time and how you plan to overcome these).
+We foresee potential challenges in content quality control and Ambassador management, but we have mitigation strategies in place.
 
 # Project Longevity 
-(Describe how you plan to support your project going forward; what plan do you have in place to ensure long-term success and sustainability). 
+We plan to support the project by continuously updating educational materials and maintaining an active social media presence.
 
 # Project Length
-(Estimate how long it will take you to complete the project given your potential time commitments external to this project)
+The project is estimated to take 3 to 6 months to complete, considering our existing commitments.
 
 # Additional Information
-(Feel free to add any additional information here in support of your proposal including Twitter accounts, Discord handles, website(s), Medium articles etc.)
+@Voi_Net @codyalgo cody.voi
