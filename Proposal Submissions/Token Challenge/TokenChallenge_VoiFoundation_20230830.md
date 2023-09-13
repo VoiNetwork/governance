@@ -64,11 +64,17 @@ Concerns:
 1. Getting the necessary scripts developed
 2. Airdropping the rewards in a timely manner upon the conclusion of the challenge
 3. Gaming of the system by actors
+4. Inadequate dispertion of testnet tokens to a large number of people
 
 Proposed Resolutions:
 1. Putting out a bounty for the necessary scripts to perform the chain analysis
 2. Utilizing the existing Token Distribution Scripts
 3. Designing the system in a way that it can be as sybil resistant as possible and adding applicable filters on the chain analysis scripts to ignore certain accounts that don't meet certain criteria to be deemed eligible.
+4. Proposals that will come before the Token Wars will increase dispertion of the testnet tokens while at the same time we can create the necessary incentives for token creators to increase the dispertion of not only their own token, but testnet voi tokens too.
+
+# Prerequisite
+
+The Token Wars will need to ensure that there is adequate dispertion of testnet tokens to people in the community.
 
 # **Project Longevity**
 
