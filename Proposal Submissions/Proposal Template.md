@@ -34,6 +34,9 @@ Proposals can be submitted to the [Proposal Folder](https://github.com/VoiNetwor
 # Concerns
 (Transparently list any concerns you may have or barriers you expect to come up to getting this project done at a high-quality level and on-time and how you plan to overcome these).
 
+# Prerequisite
+(Are there any dependencies that will impact the success of this proposal, whether technical or not?).
+
 # Project Longevity 
 (Describe how you plan to support your project going forward; what plan do you have in place to ensure long-term success and sustainability). 
 

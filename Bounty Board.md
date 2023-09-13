@@ -19,5 +19,8 @@ It is expected that all proposals selected for funding maintain open-source code
 | [Token Leverage Platform](https://github.com/VoiNetwork/governance/blob/main/Bounties/Token%20Leverage%20Platform.md) | Defi | High | :purple_circle: **Open for proposal** | 100,000,000 | 1 |
 | [Stateproof ASA Bridge](https://github.com/VoiNetwork/governance/blob/main/Bounties/Stateproof%20ASA%20Bridge.md) | Defi | High | :purple_circle: **Open for proposal** | 200,000,000 | 1 |
 | [Decentralized Oracle](https://github.com/VoiNetwork/governance/blob/main/Bounties/Decentralized%20Oracle.md) | Defi | High | :purple_circle: **Open for proposal** | 100,000,000 | 1 |
+| [Token War Scripts](https://github.com/VoiNetwork/governance/blob/main/Bounties/Token%20War%20Scripts.md) | Defi | Very High | :purple_circle: **Open for proposal** | 50,000,000 | 1 |
+
+
 
 

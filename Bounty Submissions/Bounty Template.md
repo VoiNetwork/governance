@@ -16,4 +16,4 @@ Testnet Token Bounty Size:
 
 ## Stretch Goals - what is desirable, but not required that would enable someone to reach the upper limit of the bounty reward range 
 
-## Definition of Done - what does sucess look like when completed? 
+## Definition of Done - what does success look like when completed? 
