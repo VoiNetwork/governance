@@ -8,7 +8,7 @@ Voi needs alternate DEXs that provide services beyond just AMM swap pools.
 
 ### What
 
-We want to start with a DEX that can provide leveraged trading services via perpetual futures, margin trading, leveraged tokens, options or loans.
+We want to start with a DEX that can provide leveraged trading services via perpetual futures, margin trading, leveraged tokens or loans.
 
 ### Why
 
