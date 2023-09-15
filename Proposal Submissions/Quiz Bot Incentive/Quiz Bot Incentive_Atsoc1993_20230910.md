@@ -3,7 +3,10 @@
 - 1,000,000 Tokens
 
 # Abstract
-- Introduction of an interactive incentive, "Voi Buddy," a quiz bot for the Voi Discord channel. It aims to engage the community, promote Voi knowledge, and disburse testnet Voi tokens to our community in a harmless way for idle enjoyment. Voi Buddy has 100 pre-loaded questions related to Voi,moreso towards its technical aspects and terminology, answering a multiple choice correctly triggers a transaction to a participation node address of minute amounts of Voi testnet token. All participants must use Voi Buddy's built-in registration system with their participation node address, which is a simple "!register <addresshere" command. The participation node address is tied to the users discord ID, to prevent multiple registrations for one person, and has a cooldown period of 1 hour per question.
+- Introduction of an interactive incentive, "Voi Buddy," a quiz bot for the Voi Discord channel. It aims to engage the community, promote Voi knowledge, and disburse testnet Voi tokens to our community in a harmless way for idle enjoyment. Voi Buddy has 100 pre-loaded questions related to Voi, moreso towards Voi's technical aspects and terminology, and answering a multiple choice correctly triggers a transaction to a participation node address of a minute amount of Voi testnet tokens (Currently planning to dispense 1 or less Voi testnet token per correct question. All participants must use Voi Buddy's built-in registration system with their participation node address, which is a simple "!register <addresshere" command. The participation node address is tied to the users discord ID, to prevent multiple registrations for one person, and has a cooldown period of 1 hour per question. Once a question is answered, whether it is correct, incorrect, or unanswered, the question will expire after a period of time to prevent searching the discord chat history for correct answers.
+
+  ![image](https://github.com/atsoc1993/governance/assets/144640214/12aa518a-0746-49a0-8f23-ddb8c44538aa)
+
 
 # Team
 - Atsoc1993 (Foodie): A solo developer with experience in creating and managing game bots for Discord using discord.py and the Algorand Python SDK. My previous work includes bots for Foodie City since August 2022.
