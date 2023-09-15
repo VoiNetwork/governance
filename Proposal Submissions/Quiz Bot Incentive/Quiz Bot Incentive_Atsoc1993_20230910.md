@@ -6,8 +6,10 @@
 - Introduction of an interactive incentive, "Voi Buddy," a quiz bot for the Voi Discord channel. It aims to engage the community, promote Voi knowledge, and disburse testnet Voi tokens to our community in a harmless way for idle enjoyment.
 
 # Team
-- Atsoc1993 (Foodie): A solo developer with experience in creating and managing bots for Discord using discord.py and the Algorand Python SDK My previous work includes bots for Foodie City since August 2022.
-- https://www.foodiecity.org
+- Atsoc1993 (Foodie): A solo developer with experience in creating and managing game bots for Discord using discord.py and the Algorand Python SDK. My previous work includes bots for Foodie City since August 2022.
+- Total Transaction Count on managed Bots for my project: 300,000+ (https://algoexplorer.io/asset/833815143)
+- Reference to project: https://www.foodiecity.org
+- Reference to discord: https://discord.gg/UsfzZ2c26T
 
 # Problem Description
 - There's a lack of interactive incentives to engage the community and promote the understanding of Voi and related tech in the Discord.
