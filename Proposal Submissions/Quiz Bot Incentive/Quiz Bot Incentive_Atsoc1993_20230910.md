@@ -1,6 +1,6 @@
 
 # Token Quantity
-1,000,000 Tokens
+- 1,000,000 Tokens
 
 # Abstract
 - Introduction of an interactive incentive, "Voi Buddy," a quiz bot for the Voi Discord channel. It aims to engage the community, promote Voi knowledge, and disburse testnet Voi tokens to our community in a harmless way for idle enjoyment.
