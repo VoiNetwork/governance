@@ -7,6 +7,7 @@
 
 # Team
 - Atsoc1993 (Foodie): A solo developer with experience in creating and managing bots for Discord using discord.py and the Algorand Python SDK My previous work includes bots for Foodie City since August 2022.
+- https://www.foodiecity.org
 
 # Problem Description
 - There's a lack of interactive incentives to engage the community and promote the understanding of Voi and related tech in the Discord.
