@@ -17,13 +17,15 @@
 # Solution Approach
 - Introduce "Voi Buddy," a quiz bot on Discord. It presents Voi-related multiple choice questions and rewards correct answers with testnet Voi tokens.
 
+
 # Expected Impact & Outcomes for the Voi Community
 - Increased community engagement, better understanding of Voi and its associated technologies, and an interactive way to earn testnet Voi.
 
 # Technical Approach
-- Utilize Discord.py bot programming.
+- Utilize Discord.py for bot programming.
 - Integrate the bot with Voi's blockchain using existing Algorand SDK's to disburse tokens.
 - Implement a cooldown mechanism to prevent spamming and ensure fair token distribution.
+- Maintain/Update multiple choice questions, with a starting question set of 100 Voi related questions
 - Secure user data by linking the Discord ID with the Voi participation address
 - High user engagement in the quiz, increased knowledge of Voi among community members, and positive feedback regarding the interactive token earning process.
 
@@ -33,7 +35,7 @@
 - One-click node set-ups may not currently have the option to redeem their full participation node address to register for the bot.
 
 # Project Length
-- Immediate deployment after go-ahead from committee members. If approved, can be fully functional and launched at request once the bot is invited to the discord, assuming minor adjustments at committee's preference are not requested.
+- Immediate deployment after go-ahead from committee members until end of testnet. If approved, can be fully functional and launched at request once the bot is invited to the discord, assuming minor adjustments at committee's preference are not requested.
 
 # Additional Information
 - For any committee members wishing to test the bot, please contact me directly for the discord details. I emphasize that my primary project will potentially integrate Voi compatibility on the mainnet in the future. Thank you again for considering this proposal. I believe "Voi Buddy" can significantly enhance our community's engagement and understanding of Voi.
