@@ -1,4 +1,3 @@
-# Quiz Bot Incentive
 
 # Token Quantity
 1,000,000 Tokens
