@@ -3,7 +3,7 @@
 - 1,000,000 Tokens
 
 # Abstract
-- Introduction of an interactive incentive, "Voi Buddy," a quiz bot for the Voi Discord channel. It aims to engage the community, promote Voi knowledge, and disburse testnet Voi tokens to our community in a harmless way for idle enjoyment.
+- Introduction of an interactive incentive, "Voi Buddy," a quiz bot for the Voi Discord channel. It aims to engage the community, promote Voi knowledge, and disburse testnet Voi tokens to our community in a harmless way for idle enjoyment. Voi Buddy has 100 pre-loaded questions related to Voi,moreso towards its technical aspects and terminology, answering a multiple choice correctly triggers a transaction to a participation node address of 1 Voi testnet token. All participants must use Voi Buddy's built-in registration system with their participation node address, which is a simple "!register <addresshere" command. The participation node address is tied to the users discord ID, to prevent multiple registrations for one person, and has a cooldown period of 1 hour per question.
 
 # Team
 - Atsoc1993 (Foodie): A solo developer with experience in creating and managing game bots for Discord using discord.py and the Algorand Python SDK. My previous work includes bots for Foodie City since August 2022.
