@@ -8,7 +8,7 @@ Voi needs a NFT marketplace where producers and collectors are able to buy/sell 
 
 ### What
 
-We need a wep app marketplace that facilitates the exchanging of NFTs between users via different mechanisms. 
+We need a web app marketplace that facilitates the exchanging of NFTs between users via different mechanisms. 
 
 ### Why
 
