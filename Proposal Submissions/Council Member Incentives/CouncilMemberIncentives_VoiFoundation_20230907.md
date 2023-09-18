@@ -13,7 +13,7 @@ The voice of the community is rarely heard because there fails to exist a commit
 
 # Solution Approach 
 Our solution is to incentivize members on a per meeting basis in addition to incentivizing the  taking on of additional responsibilities within the committee (ex. Champion role or Reviewer role or development of committee related supporting materials and processes). We propose the following breakdown for rewarding council members: 
-- 1 million Voi testnet tokens to be granted to individuals that attend each bi-monthly Voi committee meeting in its entirety AND participate at least once during the meeting. 
+- 1 million Voi testnet tokens to be granted to individuals that attend each bi-monthly Voi committee meeting in its entirety AND participate at least once during the meeting. A meeting attended in its entirety means member shows up within 15-min of start-time and does not leave within 15-min of scheduled end time. 
 - Additional 1 million for individuals that serve as a “Champion” (or similar role…Reviewer, Endorser etc.). 
 - An additional 10 million tokens will be allocated for additional supportive tasks completed by members of the council that contribute to the general operations of the committee and support the council in improving the proposal process and due diligence of projects. This pool of testnet tokens will be distributed commensurate with the time and effort of the task. Such tasks should be agreed upon as being needed by the Foundation and Council prior to development (example of such a task could be the creation of due diligence guidelines to support the review of projects requesting funding).
 
