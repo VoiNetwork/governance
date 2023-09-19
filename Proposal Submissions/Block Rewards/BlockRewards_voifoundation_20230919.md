@@ -90,7 +90,7 @@ The introduction of daily token rewards for block proposers is expected to:
 
 
 
-* Dramatically increase the number of participants willing to act as block proposers.
+* Increase the number of participants willing to act as block proposers.
 * Improve the overall security and decentralization of the Voi network as more participants join.
 * Encourage long-term commitment from block proposers, thereby increasing network stability.
 
@@ -101,10 +101,9 @@ The implementation of performance-based rewards for node runners is designed to:
 
 
 
-* Significantly improve the average health score of nodes on the Voi network.
 * Encourage best practices in node maintenance, leading to a more robust and resilient network.
 * Enhance the user experience through improved network performance and lower transaction times.
-
+* Improve the average health score of nodes on the Voi network.
 
 ## Strengthened Network Security
 
