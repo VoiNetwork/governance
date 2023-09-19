@@ -129,7 +129,7 @@ For the distribution of daily rewards to block proposers, a JavaScript script wi
 
 1. Analyze the day's block producers from the Voi blockchain data.
 2. Exclude blacklisted addresses, such as foundation-run nodes, to maintain fairness.
-3. Distribute the daily reward evenly among the remaining eligible block producers.
+3. Distribute the daily reward proportionally among the remaining eligible block producers based off the number of blocks produced.
 
 The script will be open-source and hosted on GitHub for community review and contributions. The repository can be found at Voi Drops GitHub Repository(https://github.com/xarmian/voi_drops).
 
