@@ -1,3 +1,5 @@
+[Video](https://drive.google.com/file/d/1S7pKG0rALaWaonQrE61OdUyQCUC9vV8d/view?usp=sharing)
+
 1. Review outstanding bounties - [bounty board](https://github.com/VoiNetwork/governance/blob/main/Bounty%20Board.md)
 2. Select a bounty - review specific bounty document OR submit an off-piste proposal for something that does not exist on the bounty board
 3. Fork the governance repository

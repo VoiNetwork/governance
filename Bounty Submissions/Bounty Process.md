@@ -1,3 +1,5 @@
+[Video](https://drive.google.com/file/d/1R5l4M3NImyEQX3BlZkLkN8uqMhGXid5Q/view?usp=sharing)
+
 1. Have an idea for a bounty that yourself or others could pickup.
 2. Review outstanding bounties and rejected bounties to ensure you are not creating a duplicate. If you find a rejected one, read why it was rejected and terermine if yours is different enough to warrant one.
 3. Fork the governance repository
