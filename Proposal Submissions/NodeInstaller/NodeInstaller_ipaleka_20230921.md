@@ -25,9 +25,19 @@ Those groups of people need to run the Voi Participation Node Installer standalo
 Optionally, they will be able to add the mnemonics for the address they want to participate in consensus. If such an address has enough Voi to pay the fee, the node will be registered online.
 
 # Solution Approach
-If the address connected with a network computer lacks Voi for paying the fee, or if the user chooses to create a completely new address for the job, then the mnemonics will be presented back to the user to write it down, together with the public address they will need to top up with Voi. In both cases, after the user tops up the address, the following run of the software will register the related node as a participation node.
+When the installer app is started for the first time, the main screen is shown with just one section/card having the initial two required input fields (IP and user password/credentials), an optional mnemonics input field, and the Run button. The placeholder for the IP input field shows "localhost" indicating that by pressing the Run button the installer will try to install Node locally and a new Voi address will be created at the end.
 
-Users can pick as many network computers as they want, and all of them will be installed and registered online in parallel. The whole process is idempotent, meaning that nothing will change with the system or the software if a user runs the software again with the filled-out required fields.
+If the user hits the "Run" button, a progress bar is shown and the app starts to install Node locally. As the password field isn't filled out, it is implied that the user who runs the app has administrative rights in the local machine - otherwise, the user's password needs to be entered in the relčated field. At the end of the process, new mnemonics and the public address are shown in a related card/section, together with a message to write down the mnemonics and probably a security check. Also, another message is shown that Voi for fees needs to be allocated to that address in order to participate in consensus. 
+
+If the user clicks the "Run" button again, the app implies Voi is allocated and tries to register the Node as a participation Node. After it finishes, the card/section gets a different styling and the participation ID is shown on the card.
+
+The user is able to enter an IP (on the Internet or on a local network) and the related password instead of just running the installation locally - the process remains completely the same.
+
+If the user enters mnemonics in the optional field, that implies using that address as the participation node address and it is implied that it has got enough Voi for paying the fees. If it lasks Voi, then the process ends before the registration to participate in the consensus phase and all the subsequent runs will try to register the node for participation - this can be prevented by marking the node/card/section as non-participating.
+
+Whenever the user clicks the "Add new" button, a new card/section is created with the same set of required and optional input fields.
+
+Users can pick as many network computers as they want, and all of them will be installed and registered online in parallel. The whole process is idempotent, meaning that nothing will change with the system or the software if a user runs the software again with the filled-out required fields. There will exist switches in each card indicating the online/offline status and if the user changes the status then the next run will register the Node as offline (or online).
 
 They will be able to add and remove the nodes. In case of removal, the node will first go offline and the software will uninstall completely without a trace.
 
