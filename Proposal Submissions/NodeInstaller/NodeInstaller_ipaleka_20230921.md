@@ -39,7 +39,7 @@ Whenever the user clicks the "Add new" button, a new card/section is created wit
 
 Users can pick as many network computers as they want, and all of them will be installed and registered online in parallel. The whole process is idempotent, meaning that nothing will change with the system or the software if a user runs the software again with the filled-out required fields. There will exist switches in each card indicating the online/offline status and if the user changes the status then the next run will register the Node as offline (or online).
 
-They will be able to add and remove the nodes. In case of removal, the node will first go offline and the software will uninstall completely without a trace.
+The users will be able to add and remove the nodes. In case of removal, the node will first go offline and the software will uninstall completely without a trace.
 
 The installer software will be able to install a node without providing an IP, and that will imply that they want to install a Node locally in the computer where they have started the installer.
 
