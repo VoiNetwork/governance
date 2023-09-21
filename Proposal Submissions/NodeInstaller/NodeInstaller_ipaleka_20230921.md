@@ -41,8 +41,6 @@ Users can pick as many network computers as they want, and all of them will be i
 
 The users will be able to add and remove the nodes. In case of removal, the node will first go offline and the software will uninstall completely without a trace.
 
-The installer software will be able to install a node without providing an IP, and that will imply that they want to install a Node locally in the computer where they have started the installer.
-
 For the advanced users, a configuration file can be created and the installer will pull the data from it.
 
 It is expected that the proposer and the Foundation agree upon security measures that should take place in the software. The content is probably out of scope in this phase.
