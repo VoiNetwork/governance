@@ -18,13 +18,49 @@ If you are able to enter your credit card number, expiration, and security code,
 
 The provider will send you credentials afterward and you're ready to go.
 
-An ordinary/average person will give up after playing with their server for a couple of hours or a day. The others, who succeed in powering up some long-term processes, and brag about that are not among our target groups. Our target groups are the first group and the experts.
+An ordinary/average person will give up after playing with their server for a couple of hours or a day. The others - who succeed in powering up some long-term processes and brag about that - are not among our target groups. Our target groups are the first group and the experts.
 
-Those groups of people need to run the Voi Participation Node Installer standalone executable (no software installation would be required) and fill out the required fields (IP and credentials of the user with the administrative privileges on related VPS).
+# Solution Approach
+
+## User flow
+
+Here's a user flow for non-local Voi node installation:
+
+1. Network computers setup
+
+   - VPS
+     Almost all major providers offer easy and intuitive VPS ordering. The process comes down to selecting a price tier and picking up an OS to be installed on the VPS. After purchase and setup, some of the needed information will be presented to you (by email, after logging in to your account, etc.):
+
+     - **IP address**
+     - **username** with the administrative privileges on the VPS
+     - related user **password**
+
+   - local network
+     The same set of data is needed if you want to install and run the Voi node(s) on your local network (or on the network created from the virtual machines running on your computer). You'll need to prepare a username with the administrative privilege and related password for each of the computers, as well as their IP addresses. The only difference from the a. is the IP numbers range: on your local network those have formats like 192.168.x.y, 10.0.x.y, 172.16.x.y, etc.
+
+2. Downloading the Node Installer
+
+    It is expected that the latest releases of the software will be available for download from the GitHub repository.
+
+3. Running the software for the first time
+
+   1. A user enters IP, username and related password, and optionally the Voi address credentials in the main screen of the installer app.
+
+   2. The user repeats the first step for all the network computers.
+
+   3. The user clicks the Run button
+
+   4. After all the network computers are processed (a few minutes or so), each computer's section/card is styled in a way indicating success or error, with eventual additional information presented for the computer.
+
+4. Subsequent runs
+
+   All the subsequent runs are done in an idempotent way, meaning that the changes are made only if the user requested the change or if the 3. step ended with an error and that error was resolved prior to run. When the target participation node runs as expected, the installer makes no change in the target system.
+
+## Detailed description of the app
+Users need to run the Voi Participation Node Installer standalone executable (no software installation would be required) and fill out the required fields (IP and credentials of the user with the administrative privileges on related VPS).
 
 Optionally, they will be able to add the mnemonics for the address they want to participate in consensus. If such an address has enough Voi to pay the fee, the node will be registered online.
 
-# Solution Approach
 When the installer app is started for the first time, the main screen is shown with just one section/card having the initial two required input fields (IP and user password/credentials), an optional mnemonics input field, and the Run button. The placeholder for the IP input field shows "localhost" indicating that by pressing the Run button the installer will try to install Node locally and a new Voi address will be created at the end.
 
 If the user hits the Run button, a progress bar is shown and the app starts to install Node locally. As the password field isn't filled out, it is implied that the user who runs the app has administrative rights in the local machine - otherwise, the user's password needs to be entered in the related field. At the end of the process, new mnemonics and the public address are shown in a related card/section, together with a message to write down the mnemonics and probably a security check. Also, another message is shown that Voi for fees needs to be allocated to that address in order to participate in consensus. 
@@ -70,7 +106,7 @@ Is Voi *the next thing* in the crypto world or not? That represents the main con
 Some people can contemplate that the installer can be a too powerful tool in the hands of bad actors. The answer is: bring them rather sooner than later!
 
 # Prerequisite
-New hardware for the development should probably be purchased in order to test such software without frustration.
+New hardware for the development should probably be purchased in order to test such software without frustration. It is expected that a few hundred OS installations in virtual environments take place during development and testing, while at least a few dozen needs to be provisioned on a daily basis.
 
 # Project Longevity 
 The software will be developed and administrated by the proposer during the first year. No matter of actual success of the project, it is expected that the maintenance continues afterwards.
