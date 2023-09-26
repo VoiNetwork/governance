@@ -6,7 +6,7 @@
 4. Create a new branch from `main` in the format of `proposal/BountyName_Submitter_YYYYMMDD`
 5. Ensure you have selected your branch
 6. Navigate to `Proposal Sumissions`, create a new folder as `BountyName` if it does not yet exist.
-7. Create new file and name it `BountyName_Submitter_YYYYMMDD.md` under the `Proposal Submissions/BountyName` directory
+7. Create new file or directory under the `Proposal Submissions/BountyName` directory. In case of a file, name it `BountyName_Submitter_YYYYMMDD.md`. In case of a directory name it `BountyName_Submitter_YYYYMMDD`. Also, in the case of a directory name its files `BountyName_Submitter_YYYYMMDD.EXT`, where EXT is the file extension. A file named `BountyName_Submitter_YYYYMMDD.md` must exists with other file formats following the naming convention.
 8. Copy [Proposal Template](https://github.com/VoiNetwork/governance/blob/main/Proposal%20Submissions/Proposal%20Template.md) into your newly created bounty submission file
 9. Fill out the template with the details of your submission
 10. Create [pull request](https://github.com/VoiNetwork/governance/pulls) and select your branch `proposal/BountyName_Submitter_YYYYMMDD`
