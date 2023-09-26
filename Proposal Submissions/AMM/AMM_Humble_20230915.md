@@ -1,6 +1,6 @@
 # Token Quantity
 
-300M Testnet Voi w/ 100M Distributed via Farms by end of Testnet duration.
+200M Testnet Voi
 
 # Abstract
 
