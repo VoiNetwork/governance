@@ -113,7 +113,18 @@ Inevitably some data we may need to show (e.g. statistics, escrow account -> app
 
 # Project Length
 
-I expect this to be in review-able state by end of Q4 2023, and delivered in Q1 2024.
+~~I expect this to be in review-able state by end of Q4 2023, and delivered in Q1 2024.~~
+
+I expect to have a prototype ready for community evaluation & feedback in about 2 months from the day of approval, and the overall project to take up to 4 months.
+
+# Deliverables & Requested payment schedule
+
+| Time since Approval | Milestone                                  | Requested Amount |
+| ------------------- | ------------------------------------------ | ---------------- |
+| 2 months            | Early functional prototype for feedback    | 0                |
+| 3-4 months          | Success Definitions delivered              | 110m $VOI        |
+| 4 months            | Statistics stretch goal                    | 15m $VOI         |
+| Wen Mainnet         | Voi Mainnet launch                         | 0                |
 
 # Additional Information
 
