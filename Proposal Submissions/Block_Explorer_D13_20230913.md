@@ -101,7 +101,11 @@ I would recommend that the bounty of 125M be split into 110M for the main explor
 
 # Concerns
 
-None.
+~~None.~~
+
+I am certain that I can create the technical/mechanical aspect of this. I am fairly confident that the user interface/experience can be iterated into something that fulfills the expectations set foward here.
+
+Something I kept in mind while deciding the approach is to keep the operational costs of running this project to a minimum. This will be accomplished by delivering something that can be run at a very low cost as-is, and converted to run even cheaper if needed (forego the next.js part and run without SSR, which would enable hosting the frontend for free.)
 
 # Project Longevity 
 
@@ -129,3 +133,5 @@ I expect to have a prototype ready for community evaluation & feedback in about 
 # Additional Information
 
 The domains that will host the explorer are already purchased - algorand dot observer and voi dot observer.
+
+A prototype **based on dappflow** has already been deployed to voi.observer. This is **not the base for the final product**. I created this as a placeholder that extended dappflow to provide some servicable mobile views, as exploring Voi testnet accounts on mobile was a personal pain point.
