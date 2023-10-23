@@ -92,7 +92,7 @@ We do have some concerns regarding the current wallet support on Voi. [A-Wallet]
 Our team is 100% dedicated to the success of the project. We constantly thrive to find optimal product-market fit and above all being independent of the crypto market condition. In addition to that, we have enough funds in our treasury to maintaain and extend the project for the next year.
 
 # Project Length
-Q4 2023 | EXA Swap deployment on Voi Testnet<br/>
+Q1 2024 | EXA Swap deployment on Voi Testnet<br/>
 We do not have information about Voi Mainnet yet. As soon as it is out, EXA Swap will be deployed.
 
 # Additional Information
