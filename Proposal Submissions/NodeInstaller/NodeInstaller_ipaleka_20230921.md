@@ -1,5 +1,14 @@
 # Token Quantity
 
+Voi Committee will decide on the exact token quantity, while the actual allocation will take place as follows:
+
+- 90% (team)
+
+  - project development and administration in the first year
+
+- 10% (community)
+
+  - contributions to the project in the first year
 
 # Abstract
 This proposal refers to the development, testing, and one year of administration of the open-source GUI and CLI installer and monitor for Voi participation nodes (testnet and mainnet). Users will be able to provide IPs and corresponding administrative users' credentials for any number of network computers, preinstalled with almost any of the contemporary OS distributions. The app will idempotently install all the software for all the computers and register the nodes for participation in consensus if the address(es) mnemonics are provided. The app will establish a bidirectional communication with each of the deployed nodes and it will be able to present a configurable set of data to the user.
