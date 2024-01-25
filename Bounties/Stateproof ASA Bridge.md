@@ -1,6 +1,6 @@
 # Stateproof ASA Bridge
 
-Testnet Token Bounty Size: **150MM to 250MM**
+Testnet Token Bounty Size: **75MM to 100MM**
 
 ## Description
 
@@ -27,6 +27,7 @@ To create a decentralized state proof bridge between Voi and Algorand.
 3. Network Switch
     1. Mainnet
     2. Testnet
+3. Implement a State Proof Oracle and Transaction Verifier to enable the bridge to be decentralized.
 
 ## Definition of Done
 
