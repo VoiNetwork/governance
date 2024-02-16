@@ -2,11 +2,18 @@
 
 ## Abstract
 
-This proposal seeks to integrate XBallot, a revolutionary DAO management platform, onto the Voi Network. XBallot, currently deployed on the Algorand blockchain, is designed to facilitate advanced DAO governance and management. Our goal is to extend XBallot's capabilities to both the Testnet and Mainnet of the Voi Network, thereby expanding our platform's reach and functionality.
+This proposal seeks to integrate XBallot, a revolutionary DAO management platform, onto the Voi Network. The XBallot demo is currently deployed on the Algorand blockchain. XBallot has not launched yet. XBallot is designed to facilitate advanced DAO governance and management. Our goal is to extend XBallot's capabilities to both the Testnet and Mainnet of the Voi Network, thereby expanding our platform's reach and functionality.
 
 ## Token Quantity
 
-We propose an allocation of 350M Testnet Voi, with 100M distributed via Interaction Incentives by the end of the Testnet period.
+We propose an allocation of 250M Testnet Voi, with distributions tied to a combination of performance metrics and standard deliverables. The distribution is as follows:
+
+50M for delivering and Open Sourcing XBallot with ARC200 & ARC72
+50M for integrating XBallot naming service with a Voi Wallet Provider, DEX & NFT Marketplace.
+50M if 150 daily active users average over 1 week
+50M if 250 daily active users average over 1 week
+50M if 350 daily active users average over 1 week
+Total 250M
 
 ## Team
 
@@ -79,7 +86,7 @@ XBallot & HEADLINE is committed to a long-term presence on the Voi Network. Our 
 
 ## Project Length
 
-- Testnet Deployment: Within 1 week of proposal approval.
+- Testnet Deployment: Testnet launch will occur after contract conversion to Voi standards and wallet updates. Approx.2-3 weeks after the proposal is approved.
 - Mainnet Deployment: Concurrent with the launch of the Voi Mainnet, subject to internal readiness and approval.
 
 ## Additional Information
